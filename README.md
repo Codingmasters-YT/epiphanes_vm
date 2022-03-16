@@ -9,7 +9,7 @@ Open VMWare v16+
 
 Select: Open a Virtual Machine
 
-Go to the extracted files and select the .ova file
+Go to the extracted files and select the .ova file. Click "Next" on any step, if prompted
 
 Then just Power it on.
 
