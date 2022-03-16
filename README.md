@@ -1,6 +1,6 @@
 # Epiphanes VM
 
-DOwnload this repository as a ZIP file
+Download this repository as a ZIP file
 
 
 Extract and save to a folder.
